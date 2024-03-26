@@ -2,3 +2,5 @@ github.com/thebigkoch/go-lib v0.1.0 h1:xoFSaTaD85WLknyGLe+fCiBjEPmZPu0kXe9x9A/gA
 github.com/thebigkoch/go-lib v0.1.0/go.mod h1:hLFBMujLM/wkGPgZoIUiKsi+CJFXpQ9nUc7x0ESgFcs=
 github.com/thebigkoch/go-lib v0.2.0 h1:e+mpOf64WspFM6crn3mYnE/t8AeLhPW7hJELDBy/qYE=
 github.com/thebigkoch/go-lib v0.2.0/go.mod h1:hLFBMujLM/wkGPgZoIUiKsi+CJFXpQ9nUc7x0ESgFcs=
+github.com/thebigkoch/go-lib/libs/simple v0.0.0-20240326005246-9b3ac8bd9c74 h1:z7zCEy6zufPeKY8hRliEZLeawWNVW3yQRpPkiyT9qCk=
+github.com/thebigkoch/go-lib/libs/simple v0.0.0-20240326005246-9b3ac8bd9c74/go.mod h1:ucJdd+kB7hZgbSNUDQgbL+91raRssfoKfAYxP9MthkU=
